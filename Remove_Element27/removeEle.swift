@@ -1,3 +1,4 @@
+// problem link: https://leetcode.com/problems/remove-element/
 class Solution {
     func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
         var ptr = 0
