@@ -1,4 +1,4 @@
-// Problem link: 
+// Problem link: https://leetcode.com/problems/increasing-triplet-subsequence
 class Solution {
     func increasingTriplet(_ nums: [Int]) -> Bool {
         var first = Int.max
